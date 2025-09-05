@@ -18,7 +18,7 @@ Llamalend markets are **isolated markets**, meaning each market only has one col
 
 Llamalend's lending markets operate through a traditional lending model where you supply assets to earn yield:
 
-- **Vaults**: Vaults are the smart contracts where users can deposit (lend) their assets and borrowers borrow from. Each market has its own vault that manages the specific collateral and debt token pair.
+- **Vaults**: Vaults are the smart contracts where users can deposit (lend) their assets and borrowers borrow from. Each market has its own vault that manages the specific debt token.
 - **Supply Process**: You deposit your assets (like crvUSD) into lending market vaults. These assets become available for borrowers to use as collateral or debt tokens.
 - **Yield Generation**: You earn interest from borrowers who pay rates based on market utilization and demand. Higher utilization typically means higher yields for suppliers.
 - **Liquidity Provision**: Your supplied assets provide the liquidity that enables borrowing on the platform. The more assets supplied, the more borrowing capacity available.
